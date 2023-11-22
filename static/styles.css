@@ -1,0 +1,40 @@
+body {
+ font-family: Arial, sans-serif;
+ text-align: center;
+}
+
+form {
+ max-width: 400px;
+ margin: 20px auto;
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 5px;
+}
+
+label {
+ display: block;
+ margin-bottom: 8px;
+}
+
+input {
+ width: 100%;
+ padding: 8px;
+ margin-bottom: 15px;
+ box-sizing: border-box;
+}
+
+button {
+ background-color: #034204;
+ color: white;
+ padding: 10px 15px;
+ border: none;
+ border-radius: 5px;
+ cursor: pointer;
+}
+
+a {
+ display: block;
+ margin-top: 20px;
+ text-decoration: none;
+ color: #4CAF50;
+}
